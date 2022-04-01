@@ -3,7 +3,7 @@
 Using the visualization power of Tableau and the New York City dataset from Citibike, analyze the bike trips from August of 2019 as support for adding bike-sharing services in new cities.
 
 ## Results
-[link to dashboard](LINK GOES HERE "link to dashboard")
+[Link to Dashboard](https://public.tableau.com/app/profile/natalie.erry/viz/Tableau-Challenge_16478142786160/BikeSharingPresentation?publish=yes)
 ### Checkout Times for all Users
 ![checkoutforall.png](Analysis/checkoutforall.png)
    - Desc 
@@ -27,7 +27,7 @@ Using the visualization power of Tableau and the New York City dataset from Citi
    - Desc  
 
 
-##Summary
+## Summary
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 Viz Suggestion 1 
