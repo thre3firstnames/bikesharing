@@ -25,12 +25,11 @@ Using the visualization power of Tableau and the New York City dataset from Citi
    - The spread of start locations on this map suggest that many users are moving from the outer neighborhoods into central and south Manhattan. 
 ### Top Ending Locations 
 ![topendlocations.png](Analysis/topendlocations.png)
-   - The concentration of end locations south of Central Park on the map might suggest that tourists use the bikes to reach the most popular attractions in the city.
-
+   - The concentration of end locations south of Central Park on the map might suggest that tourists use the bikes to reach the most popular attractions in the city. 
 
 
 ## Summary
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+Based on the data from Citibike and the vizualations created in Tableau, it’s clear that the bikesharing program is a successful endeavour in a city where vehicle traffic can be complicated. 
 
-Viz Suggestion 1 
-Viz Suggestion 2
+- As another step in the research process, deeper analysis of bike usage will be needed to determine wear. Number of trips & trip duration can be used as factors to indicate when bikes are due for service. 
+- Regular station maintenance will also be required for proper longevity. Stations with the heaviest use – determined using starting/ending coordinates – should be considered for upgrades, regular maintenance, and restock from lesser-used stations.
